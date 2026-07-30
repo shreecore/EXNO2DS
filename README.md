@@ -1,12 +1,27 @@
 # EXNO2DS
 # AIM:
-      To perform Exploratory Data Analysis on the given data set.
 To perform Exploratory Data Analysis on the given data set.
-
+      
 # EXPLANATION:
   The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis.
-@@ -23,7 +23,32 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
+  
+# ALGORITHM:
+STEP 1: Import the required packages to perform Data Cleansing,Removing Outliers and Exploratory Data Analysis.
+
+STEP 2: Replace the null value using any one of the method from mode,median and mean based on the dataset available.
+
+STEP 3: Use boxplot method to analyze the outliers of the given dataset.
+
+STEP 4: Remove the outliers using Inter Quantile Range method.
+
+STEP 5: Use Countplot method to analyze in a graphical method for categorical data.
+
+STEP 6: Use displot method to represent the univariate distribution of data.
+
+STEP 7: Use cross tabulation method to quantitatively analyze the relationship between multiple variables.
+
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
+
 
 ## CODING AND OUTPUT
  <img width="1071" height="838" alt="image" src="https://github.com/user-attachments/assets/93502d0f-ca3c-47ff-827d-daa2a5631220" />
@@ -29,19 +44,5 @@ STEP 8: Use heatmap method of representation to show relationships between two v
  <img width="1026" height="560" alt="image" src="https://github.com/user-attachments/assets/f44b1376-87b5-41ad-b798-d05506cc346b" />
  <img width="1066" height="901" alt="image" src="https://github.com/user-attachments/assets/63974112-57dc-435e-8235-f9201a4219b0" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
   We have performed Exploratory Data Analysis on the given data set successfully.
